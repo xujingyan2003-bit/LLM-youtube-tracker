@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Karpathy",
+    "rss_url": "https://www.youtube.com/@karpathy"
+  },
+  {
+    "name": "freeCodeCamp",
+    "rss_url": "https://www.youtube.com/@freecodecamp/videos"
+  },
+  {
+    "name": "AI Explained",
+    "rss_url": "https://www.youtube.com/@aiexplained"
+  }
+]

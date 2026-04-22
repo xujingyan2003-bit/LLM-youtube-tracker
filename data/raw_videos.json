@@ -1,0 +1,108 @@
+{
+  "generated_at": "2026-04-22T10:24:09.863515+00:00",
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "keywords": [
+    "llm",
+    "large language model",
+    "language model",
+    "gpt",
+    "chatgpt",
+    "transformer",
+    "prompt",
+    "generative ai",
+    "ai model",
+    "artificial intelligence",
+    "machine learning",
+    "ai"
+  ],
+  "channels": [
+    {
+      "name": "Adam Goodyer",
+      "rss_url": "https://www.youtube.com/@AdamGoodyer",
+      "videos": [
+        {
+          "video_id": "ijBJVzxSBRA",
+          "title": "I Built Karpathy's LLM Wiki for My Entire AI Agency",
+          "link": "https://www.youtube.com/watch?v=ijBJVzxSBRA",
+          "published": null,
+          "transcript_status": "error: IpBlocked",
+          "transcript": []
+        },
+        {
+          "video_id": "2KmtA_4gSHw",
+          "title": "Claude Design replaced my $300/mo motion tool. In one prompt",
+          "link": "https://www.youtube.com/watch?v=2KmtA_4gSHw",
+          "published": null,
+          "transcript_status": "error: IpBlocked",
+          "transcript": []
+        }
+      ],
+      "filtered_out": 1
+    },
+    {
+      "name": "Yannic Kilcher",
+      "rss_url": "https://www.youtube.com/@YannicKilcher",
+      "videos": [
+        {
+          "video_id": "rR5_emVeyBk",
+          "title": "AI made this music video | What happens when OpenAI's CLIP meets BigGAN?",
+          "link": "https://www.youtube.com/watch?v=rR5_emVeyBk",
+          "published": null,
+          "transcript_status": "error: IpBlocked",
+          "transcript": []
+        },
+        {
+          "video_id": "efPrtcLdcdM",
+          "title": "GPT-4chan: This is the worst AI ever",
+          "link": "https://www.youtube.com/watch?v=efPrtcLdcdM",
+          "published": null,
+          "transcript_status": "error: IpBlocked",
+          "transcript": []
+        }
+      ],
+      "filtered_out": 1
+    },
+    {
+      "name": "AI Explained",
+      "rss_url": "https://www.youtube.com/@aiexplained",
+      "videos": [
+        {
+          "video_id": "49AkHYiikoA",
+          "title": "I Tried Zoom AI So You Don’t Have To",
+          "link": "https://www.youtube.com/watch?v=49AkHYiikoA",
+          "published": null,
+          "transcript_status": "error: IpBlocked",
+          "transcript": []
+        },
+        {
+          "video_id": "gIM5FODuCgc",
+          "title": "AI Agents. Work Ends. Everything Changes.",
+          "link": "https://www.youtube.com/watch?v=gIM5FODuCgc",
+          "published": null,
+          "transcript_status": "error: IpBlocked",
+          "transcript": []
+        }
+      ],
+      "filtered_out": 1
+    },
+    {
+      "name": "Matt Pocock",
+      "rss_url": "https://www.youtube.com/@mattpocockuk/videos",
+      "videos": [
+        {
+          "video_id": "9VNG0h4pLh0",
+          "title": "Never Trust An LLM",
+          "link": "https://www.youtube.com/watch?v=9VNG0h4pLh0",
+          "published": null,
+          "transcript_status": "error: IpBlocked",
+          "transcript": []
+        }
+      ],
+      "filtered_out": 2
+    }
+  ]
+}
